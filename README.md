@@ -3,6 +3,6 @@ This project shall aid investors with creating profitable stock trading strategi
 
 ##Files
 - `data_extraction.ipynb`: A Jupyter notebook to extract stock data using `yfinance`.
-- `data_file.csv`: The extracted stock data saved in CSV format.
+- `prices.csv`: The extracted stock data saved in CSV format.
 
 
